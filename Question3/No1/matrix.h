@@ -4,6 +4,7 @@
 #define _INCLUDE_GUARD_MATRIX_H_
 
 // Declare
-struct matrix ;
+struct _matrix ;
+int summatrix(matrix,matrix);
 
 #endif
