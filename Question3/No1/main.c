@@ -4,15 +4,6 @@
 int main()
 {
 
-typedef struct _matrix 
-{
-    int m11;
-    int m21;
-} matrix; //definition
-
-// m11
-// m21
-
 matrix x;
 x.m11=5;
 x.m21=7;
