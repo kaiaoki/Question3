@@ -5,7 +5,7 @@
 
 // Declare
 struct _matrix ;
-int summatrix(matrix,matrix);
+int summatrix(int,int);
 
 typedef struct _matrix 
 {

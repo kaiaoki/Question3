@@ -17,7 +17,7 @@ matrix a;
 a.m11=summatrix(x.m11,y.m11);
 a.m21=summatrix(x.m21,y.m21);
 
-printf("%d \n %d",a.m11,a.m21);
+printf("%d\n%d\n",a.m11,a.m21);
 
 }
 
